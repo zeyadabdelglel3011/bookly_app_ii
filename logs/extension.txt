@@ -1,0 +1,292 @@
+!! ⚠️ PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING ⚠️ !!
+Dart Code extension: 3.102.0
+Flutter extension: 3.102.0 (not activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: win 1.95.3
+
+
+Logging Categories:
+    General
+
+Mon Dec 09 2024 [11:43:39 GMT+0200 (Eastern European Standard Time)] Log file started
+[11:43:39 AM] [General] [Info] Searching for SDKs...
+[11:43:39 AM] [General] [Info] Environment PATH:
+[11:43:39 AM] [General] [Info]     C:\Windows\system32
+[11:43:39 AM] [General] [Info]     C:\Windows
+[11:43:39 AM] [General] [Info]     C:\Windows\System32\Wbem
+[11:43:39 AM] [General] [Info]     C:\Windows\System32\WindowsPowerShell\v1.0\
+[11:43:39 AM] [General] [Info]     C:\Windows\System32\OpenSSH\
+[11:43:39 AM] [General] [Info]     C:\Program Files\dotnet\
+[11:43:39 AM] [General] [Info]     C:\gradle-8.10-bin\gradle-8.10\bin
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\AppData\Local\Pub\Cache\bin
+[11:43:39 AM] [General] [Info]     C:\Program Files\nodejs\
+[11:43:39 AM] [General] [Info]     C:\Program Files\PowerShell\7\
+[11:43:39 AM] [General] [Info]     C:\Program Files\PowerShell\7-preview\preview
+[11:43:39 AM] [General] [Info]     C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\
+[11:43:39 AM] [General] [Info]     C:\jdk-17.0.12\bin
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:39 AM] [General] [Info]     C:\Program Files\Git\bin
+[11:43:39 AM] [General] [Info]     C:\Program Files\Git\cmd
+[11:43:39 AM] [General] [Info]     C:\Windows\System32
+[11:43:39 AM] [General] [Info]     C:\Windows\System32\WindowsPowerShell\v1.0
+[11:43:39 AM] [General] [Info]     C:\Windows\System32\OpenSSH
+[11:43:39 AM] [General] [Info]     C:\flutter\bin
+[11:43:39 AM] [General] [Info]     C:\flutter\bin\cache\dart-sdk\bin
+[11:43:39 AM] [General] [Info]     C:\Program Files (x86)\GnuWin32\bin
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\AppData\Local\Microsoft\WindowsApps
+[11:43:39 AM] [General] [Info]     C:\gradle-8.10-bin\gradle-8.10\bin
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\AppData\Local\Pub\Cache\bin
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\AppData\Roaming\npm
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\.dotnet\tools
+[11:43:39 AM] [General] [Info]     E:\Microsoft VS Code\bin
+[11:43:39 AM] [General] [Info]     C:\jdk-17.0.12\bin
+[11:43:39 AM] [General] [Info]     C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:39 AM] [General] [Info]     C:\Program Files\Git\bin
+[11:43:39 AM] [General] [Info]     C:\Program Files\Git\cmd
+[11:43:39 AM] [General] [Info]     C:\Windows\System32
+[11:43:39 AM] [General] [Info]     C:\Windows\System32\WindowsPowerShell\v1.0
+[11:43:40 AM] [General] [Info] Took 817ms to search for projects (5 levels)
+[11:43:40 AM] [General] [Info] Took 9ms to filter out excluded projects (0 exclusion rules)
+[11:43:40 AM] [General] [Info] Found Flutter project at E:\booklyapp:
+			Mobile? true
+			Web? false
+			Create Trigger? false
+			Flutter Repo? false
+[11:43:40 AM] [General] [Info] Searching for flutter.bat
+[11:43:40 AM] [General] [Info]     Looking for flutter.bat in:
+[11:43:40 AM] [General] [Info]         E:\booklyapp
+[11:43:40 AM] [General] [Info]         E:\booklyapp -> E:\booklyapp\bin
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\
+[11:43:40 AM] [General] [Info]         E:\booklyapp\.flutter
+[11:43:40 AM] [General] [Info]         E:\booklyapp\.flutter -> E:\booklyapp\.flutter\bin
+[11:43:40 AM] [General] [Info]         E:\booklyapp\vendor\flutter
+[11:43:40 AM] [General] [Info]         E:\booklyapp\vendor\flutter -> E:\booklyapp\vendor\flutter\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\system32
+[11:43:40 AM] [General] [Info]         C:\Windows\system32 -> C:\Windows\system32\bin
+[11:43:40 AM] [General] [Info]         C:\Windows
+[11:43:40 AM] [General] [Info]         C:\Windows -> C:\Windows\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\Wbem
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\Wbem -> C:\Windows\System32\Wbem\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\ -> C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\OpenSSH\
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\OpenSSH\ -> C:\Windows\System32\OpenSSH\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\dotnet\
+[11:43:40 AM] [General] [Info]         C:\Program Files\dotnet\ -> C:\Program Files\dotnet\bin
+[11:43:40 AM] [General] [Info]         C:\gradle-8.10-bin\gradle-8.10\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Pub\Cache\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\nodejs\
+[11:43:40 AM] [General] [Info]         C:\Program Files\nodejs\ -> C:\Program Files\nodejs\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\PowerShell\7\
+[11:43:40 AM] [General] [Info]         C:\Program Files\PowerShell\7\ -> C:\Program Files\PowerShell\7\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\PowerShell\7-preview\preview
+[11:43:40 AM] [General] [Info]         C:\Program Files\PowerShell\7-preview\preview -> C:\Program Files\PowerShell\7-preview\preview\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\
+[11:43:40 AM] [General] [Info]         C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\ -> C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin
+[11:43:40 AM] [General] [Info]         C:\jdk-17.0.12\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools -> C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\cmd
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\cmd -> C:\Program Files\Git\cmd\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32
+[11:43:40 AM] [General] [Info]         C:\Windows\System32 -> C:\Windows\System32\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0 -> C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\OpenSSH
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\OpenSSH -> C:\Windows\System32\OpenSSH\bin
+[11:43:40 AM] [General] [Info]         C:\flutter\bin
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files (x86)\GnuWin32\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Microsoft\WindowsApps
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Microsoft\WindowsApps -> C:\Users\Win 10\AppData\Local\Microsoft\WindowsApps\bin
+[11:43:40 AM] [General] [Info]         C:\gradle-8.10-bin\gradle-8.10\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Pub\Cache\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Roaming\npm
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Roaming\npm -> C:\Users\Win 10\AppData\Roaming\npm\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master -> C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools -> C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\.dotnet\tools
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\.dotnet\tools -> C:\Users\Win 10\.dotnet\tools\bin
+[11:43:40 AM] [General] [Info]         E:\Microsoft VS Code\bin
+[11:43:40 AM] [General] [Info]         C:\jdk-17.0.12\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools -> C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\cmd
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\cmd -> C:\Program Files\Git\cmd\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32
+[11:43:40 AM] [General] [Info]         C:\Windows\System32 -> C:\Windows\System32\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0 -> C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\flutter-sdk
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\flutter-sdk -> C:\Users\Win 10\flutter-sdk\bin
+[11:43:40 AM] [General] [Info]         /google/flutter
+[11:43:40 AM] [General] [Info]         /google/flutter -> \google\flutter\bin
+[11:43:40 AM] [General] [Info]         /opt/flutter
+[11:43:40 AM] [General] [Info]         /opt/flutter -> \opt\flutter\bin
+[11:43:40 AM] [General] [Info]     Found at:
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\
+[11:43:40 AM] [General] [Info]         C:\flutter\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master -> C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master\bin
+[11:43:40 AM] [General] [Info]     Candidate paths to be post-filtered:
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\ -> C:\flutter
+[11:43:40 AM] [General] [Info]         C:\flutter\bin -> C:\flutter
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master
+[11:43:40 AM] [General] [Info]     Found at C:\flutter\bin\ -> C:\flutter
+[11:43:40 AM] [General] [Info]     Returning SDK path C:\flutter for flutter.bat
+[11:43:40 AM] [General] [Info] Searching for dart.exe
+[11:43:40 AM] [General] [Info]     Looking for dart.exe in:
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk -> C:\flutter\bin\cache\dart-sdk\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\system32
+[11:43:40 AM] [General] [Info]         C:\Windows\system32 -> C:\Windows\system32\bin
+[11:43:40 AM] [General] [Info]         C:\Windows
+[11:43:40 AM] [General] [Info]         C:\Windows -> C:\Windows\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\Wbem
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\Wbem -> C:\Windows\System32\Wbem\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\ -> C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\OpenSSH\
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\OpenSSH\ -> C:\Windows\System32\OpenSSH\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\dotnet\
+[11:43:40 AM] [General] [Info]         C:\Program Files\dotnet\ -> C:\Program Files\dotnet\bin
+[11:43:40 AM] [General] [Info]         C:\gradle-8.10-bin\gradle-8.10\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Pub\Cache\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\nodejs\
+[11:43:40 AM] [General] [Info]         C:\Program Files\nodejs\ -> C:\Program Files\nodejs\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\PowerShell\7\
+[11:43:40 AM] [General] [Info]         C:\Program Files\PowerShell\7\ -> C:\Program Files\PowerShell\7\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\PowerShell\7-preview\preview
+[11:43:40 AM] [General] [Info]         C:\Program Files\PowerShell\7-preview\preview -> C:\Program Files\PowerShell\7-preview\preview\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\
+[11:43:40 AM] [General] [Info]         C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\ -> C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin
+[11:43:40 AM] [General] [Info]         C:\jdk-17.0.12\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools -> C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\cmd
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\cmd -> C:\Program Files\Git\cmd\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32
+[11:43:40 AM] [General] [Info]         C:\Windows\System32 -> C:\Windows\System32\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0 -> C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\OpenSSH
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\OpenSSH -> C:\Windows\System32\OpenSSH\bin
+[11:43:40 AM] [General] [Info]         C:\flutter\bin
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files (x86)\GnuWin32\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Microsoft\WindowsApps
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Microsoft\WindowsApps -> C:\Users\Win 10\AppData\Local\Microsoft\WindowsApps\bin
+[11:43:40 AM] [General] [Info]         C:\gradle-8.10-bin\gradle-8.10\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Pub\Cache\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Roaming\npm
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Roaming\npm -> C:\Users\Win 10\AppData\Roaming\npm\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master -> C:\Users\Win 10\AppData\Local\Android\Sdk\flutter-master\flutter-master\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools -> C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\.dotnet\tools
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\.dotnet\tools -> C:\Users\Win 10\.dotnet\tools\bin
+[11:43:40 AM] [General] [Info]         E:\Microsoft VS Code\bin
+[11:43:40 AM] [General] [Info]         C:\jdk-17.0.12\bin
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools
+[11:43:40 AM] [General] [Info]         C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools -> C:\Users\Win 10\AppData\Local\Android\Sdk\platform-tools\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\bin
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\cmd
+[11:43:40 AM] [General] [Info]         C:\Program Files\Git\cmd -> C:\Program Files\Git\cmd\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32
+[11:43:40 AM] [General] [Info]         C:\Windows\System32 -> C:\Windows\System32\bin
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0
+[11:43:40 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0 -> C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk -> C:\flutter\bin\cache\dart-sdk\bin
+[11:43:40 AM] [General] [Info]     Found at:
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk -> C:\flutter\bin\cache\dart-sdk\bin
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk\bin
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk -> C:\flutter\bin\cache\dart-sdk\bin
+[11:43:40 AM] [General] [Info]     Candidate paths to be post-filtered:
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk\bin -> C:\flutter\bin\cache\dart-sdk
+[11:43:40 AM] [General] [Info]         C:\flutter\bin\cache\dart-sdk
+[11:43:40 AM] [General] [Info]     Found at C:\flutter\bin\cache\dart-sdk
+[11:43:40 AM] [General] [Info]     Returning SDK path C:\flutter\bin\cache\dart-sdk for dart.exe
+[11:43:40 AM] [General] [Info] Experiment random number is 2 for experiment 'sdkDaps'. Experiment is enabled for <= 100
+[11:43:40 AM] [General] [Info] Experiment 'sdkDaps' is activating (not first time)
+[11:43:40 AM] [General] [Info] Experiment random number is 2 for experiment 'sdkDaps'. Experiment is enabled for <= 100
+[11:43:40 AM] [General] [Info] Experiment 'sdkDaps' is activating (not first time)
+[11:43:40 AM] [General] [Info] Experiment random number is 2 for experiment 'sdkDaps'. Experiment is enabled for <= 10
+[11:43:40 AM] [General] [Info] Experiment 'sdkDaps' is activating (not first time)
+[11:43:40 AM] [General] [Info] !! ⚠️ PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING ⚠️ !!
+Dart Code extension: 3.102.0
+Flutter extension: 3.102.0 (not activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: win 1.95.3
+
+Workspace type: Flutter (LSP)
+Workspace name: booklyapp
+
+Dart (3.5.4): C:\flutter\bin\cache\dart-sdk
+Flutter (3.24.5): C:\flutter (No device)
+[11:43:40 AM] [General] [Info] Returning cached results for project search
+[11:43:40 AM] [General] [Info] Checking 1 projects for supported platforms
+[11:43:40 AM] [General] [Info] Returning cached results for project search
+[11:43:40 AM] [General] [Info] Activating Flutter extension for Flutter project...
+[11:43:40 AM] [General] [Info] Version last used for Pub is 3.5.4 (3.5.0), current is 3.5.4 (3.5.0)
+[11:43:40 AM] [General] [Info] Found pub status for 0 folders:
+[11:43:41 AM] [General] [Info] Loaded 20000 package names from vscode-userdata:/c%3A/Users/Win%2010/AppData/Roaming/Code/User/globalStorage/dart-code.dart-code/package_cache.json
+[11:43:41 AM] [General] [Info] !! ⚠️ PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING ⚠️ !!
+Dart Code extension: 3.102.0
+Flutter extension: 3.102.0 (activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: win 1.95.3
+
+Workspace type: Flutter (LSP)
+Workspace name: booklyapp
+
+Dart (3.5.4): C:\flutter\bin\cache\dart-sdk
+Flutter (3.24.5): C:\flutter (No device)
+[11:43:43 AM] [General] [Info] Supported platforms for the workspace are web, android, ios, linux, macos, windows
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:43 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:43:45 AM] [General] [Info] Returning cached results for project search
+[11:43:45 AM] [General] [Info] Returning cached results for project search
+[11:44:02 AM] [General] [Info] Returning cached results for project search
+[11:44:25 AM] [General] [Info] Returning cached results for project search
+[11:44:25 AM] [General] [Info] Checking 1 projects for supported platforms
+[11:44:25 AM] [General] [Info] Supported platforms for the workspace are web, android, ios, linux, macos, windows
+[11:44:27 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:45:15 AM] [General] [Info] Saving emulator-5554 as preferred device
+[11:45:15 AM] [General] [Info] Returning cached results for project search
+[11:45:15 AM] [General] [Info] Checking 1 projects for supported platforms
+[11:45:15 AM] [General] [Info] Supported platforms for the workspace are web, android, ios, linux, macos, windows
+[11:45:15 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:45:15 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:45:15 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:45:16 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:45:22 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:53:37 AM] [General] [Info] Took 55ms to search for projects (5 levels)
+[11:53:37 AM] [General] [Info] Took 3ms to filter out excluded projects (0 exclusion rules)
+[11:53:37 AM] [General] [Info] Checking 1 projects for supported platforms
+[11:53:37 AM] [General] [Info] Supported platforms for the workspace are web, android, ios, linux, macos, windows
+[11:53:37 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[11:53:37 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[12:07:54 PM] [General] [Info] Extension deactivate was called (isRestart: false)
+[12:07:54 PM] [General] [Error] Error cleaning up during extension shutdown: Canceled: Canceled
